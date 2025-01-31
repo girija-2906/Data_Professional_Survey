@@ -6,6 +6,12 @@ This project aims to gain actionable insights, identify trends, and support stra
 ## Dataset Used
 - <a href = "https://github.com/girija-2906/Data_Professional_Survey/blob/main/Data%20Professional%20Survey%20Breakdown.xlsx">Datset
 ## Questions (KPIs)
+- Which title best fits your current role
+- What is the average salary for the current role
+- How happy are you in your current position
+- How happy are you with your current salary
+- Which location do you live in
+- How difficult for you to break into data
 ## Process
 ## Dashboard
 - <a href = "https://github.com/girija-2906/Data_Professional_Survey/blob/main/ScreenShot.PNG">Dashboard

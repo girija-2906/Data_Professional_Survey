@@ -8,5 +8,6 @@ This project aims to gain actionable insights, identify trends, and support stra
 ## Questions (KPIs)
 ## Process
 ## Dashboard
+- <a href = "https://github.com/girija-2906/Data_Professional_Survey/blob/main/ScreenShot.PNG">Dashboard
 ## Project Insights
 ## Final Conculsion
